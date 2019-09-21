@@ -1,0 +1,3 @@
+- Why is the "Learn More" button on the title page using a <ul> tag 
+instead of something else? 
+

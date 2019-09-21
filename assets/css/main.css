@@ -2613,6 +2613,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			.image.center{
+				display: flex;
+				justify-content: center;
+			}
+
 /* List */
 
 	ol {
@@ -3261,6 +3266,10 @@ input, select, textarea {
 
 		.wrapper.style3-alt {
 			background-color: #953d75;
+		}
+
+		.wrapper.style4{
+			background-color:#30BDEC;
 		}
 
 		.wrapper.fullscreen {
